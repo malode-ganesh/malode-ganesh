@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=malode-ganesh&color=green)
-
 ### *Enthusiastic and tech-savvy Java developer with a passion for innovation and continuous learning.*
 
 
