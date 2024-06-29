@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=malode-ganesh&color=green)
+
+### *Enthusiastic and tech-savvy Java developer with a passion for innovation and continuous learning.*
+
+
+
 <!--
 Views 
 **malode-ganesh/malode-ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
